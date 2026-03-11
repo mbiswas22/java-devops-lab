@@ -1,1 +1,1 @@
-# jenkins-maven-lab
+# java-devops-lab
